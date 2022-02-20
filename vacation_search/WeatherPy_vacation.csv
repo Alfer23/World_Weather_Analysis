@@ -1,0 +1,164 @@
+City_ID,City,Country,Max Temp,Lat,Lng,Hotel Name
+4,Kachiry,KZ,18.9,53.0675,76.1036,"Ночной клуб BasMax, Гостиница , Ресторан , Магазин-автозап. сто вулканизатор ,"
+16,Derzhavinsk,KZ,14.22,51.1,66.3167,Ooo.khim Baza
+26,Pingliang,CN,24.17,35.5392,106.6861,North Gate Hostel
+28,Fairbanks,US,11.61,64.8378,-147.7164,Westmark Fairbanks Hotel & Conference Center
+34,Zhanaozen,KZ,39.78,43.3,52.8,K.korabay 28A
+38,Novyy Urengoy,RU,16.41,66.0833,76.6333,Apartments Moy Dom na Gubkina
+39,Jamestown,US,34.09,42.097,-79.2353,Hampton Inn & Suites Jamestown
+40,Vagur,FO,37.67,61.4732,-6.8119,Budget Guesthouse Borgustova
+57,Petropavlovsk-Kamchatskiy,RU,27.19,53.0452,158.6483,The Hotel Petropavlovsky
+58,Shenkursk,RU,34.23,62.1091,42.896,"""Vaga"" hotel"
+59,El Paso,US,38.01,31.8001,-106.2005,Desert Oasis Park MHP
+61,At-Bashi,KG,19.33,41.1702,75.8106,Hostel At-Bashy
+64,Berlevag,NO,30.15,70.8578,29.0864,Kvitbrakka
+70,Ust-Kulom,RU,29.57,61.6864,53.6902,Ip Napalkov Vasiliy Dmitriyevich
+73,Svobodnyy,RU,9.82,51.4,128.1333,Alekseevskij Hotel
+77,Hofn,IS,27.97,64.2539,-15.2082,Hótel Höfn
+79,Brun,AM,33.62,39.5349,46.3073,Hotel Mira
+80,Asau,RO,39.96,46.4333,26.4,Casa Mika Ciobanus
+82,Aksarka,RU,15.15,66.5606,67.7975,
+86,Nemuro,JP,25.23,43.3236,145.575,Hotel Nemuro Kaiyoutei
+91,Karasjok,NO,23.11,69.4719,25.5112,Karasjok camping AS
+95,Preobrazheniye,RU,24.98,42.9019,133.9064,Campsite Orlan
+96,Salina,US,21.25,38.8403,-97.6114,"Holiday Inn Express & Suites Salina, an IHG Hotel"
+106,Klaksvik,FO,31.12,62.2266,-6.589,Airbnb rooms
+117,Qaqortoq,GL,12.7,60.7167,-46.0333,Siniffik Inn
+123,Ganzhou,CN,38.3,28.8184,115.4327,Laotou Farm Restaurant Hostel
+124,Alihe,CN,10.92,50.5667,123.7167,Alihe Forestry Hotel
+128,Husavik,IS,26.51,66.0449,-17.3389,Bjarnabúð
+135,Erdenet,MN,8.29,49.0333,104.0833,Erdenet hotel
+139,Teya,RU,13.68,60.3778,92.6267,
+143,Meadow Lake,US,34.12,34.8014,-106.5436,TumbleWeed RV Park
+144,Cangzhou,CN,36.12,38.3167,116.8667,Jinji Express Hotel
+159,Severo-Kurilsk,RU,29.39,50.6789,156.125,Kak Doma
+161,Izhma,RU,29.35,65.0083,53.9113,
+168,Paamiut,GL,2.86,61.994,-49.6678,Pistut
+171,Olafsvik,IS,28.92,64.8945,-23.7142,Hotel Olafsvik
+178,Verkhnyaya Inta,RU,23.72,65.9811,60.3094,
+182,Nikolskoye,RU,31.91,59.7035,30.7861,Tourist House - Sablino
+195,Naryan-Mar,RU,24.76,67.6713,53.087,Hostel Agat
+196,Ostrovnoy,RU,28.72,68.0531,39.5131,
+200,Hamilton,US,31.05,39.1834,-84.5333,Six Acres Bed & Breakfast
+209,Nanortalik,GL,18.36,60.1432,-45.2371,Hotel Kap Farvel
+210,Provideniya,RU,3.56,64.3833,-173.3,
+215,Atbasar,KZ,15.3,51.8,68.3333,Гостиничный Комплекс Saad
+216,Longyearbyen,SJ,12.04,78.2186,15.6401,"Radisson Blu Polar Hotel, Spitsbergen"
+217,Tasiilaq,GL,23.16,65.6145,-37.6368,The Red House
+220,Mezen,RU,32.97,65.8522,44.24,Gostevoy Dom Everest
+224,Dawson Creek,CA,4.64,55.7666,-120.2362,Peace Villa Motel
+231,Narsaq,GL,12.42,60.9167,-46.05,Sleep In Narsaq
+234,Whitehorse,CA,18.37,60.7161,-135.0538,The Sternwheeler Hotel & Conference Centre
+236,Temir,KZ,27.03,49.1414,57.13,
+239,Koslan,RU,33.35,63.4564,48.8989,
+241,Vitim,RU,5.14,59.4511,112.5578,Gostinitsa V Apteke
+242,Ekhabi,RU,13.32,53.5102,142.9671,
+243,Irbeyskoye,RU,22.46,55.6428,95.4522,"Gostinitsa ""Agul"""
+244,Anaconda,US,34.79,46.1285,-112.9423,Trade Wind Motel
+247,Krasnogorsk,RU,37.06,55.8225,37.3181,"Hotel ""Academy"""
+261,Zdvinsk,RU,19.94,54.7021,78.661,Hotel Siberia
+262,Dongsheng,CN,16.03,39.8161,109.9776,Crowne Plaza Ordos
+264,Kajaani,FI,28.45,64.2273,27.7285,Original Sokos Hotel Valjus
+272,Creel,MX,30.13,27.75,-107.6333,The Lodge at Creel Hotel & SPA
+275,Cochrane,CA,32.7,51.1834,-114.4687,Days Inn & Suites by Wyndham Cochrane
+276,Tazovskiy,RU,12.13,67.4667,78.7,TazHostel
+278,Podgornoye,RU,37.62,51.735,39.1496,"O 'Hara's Irish Pub, restaurant, hotel"
+279,Riviere-Au-Renard,CA,28.69,48.9957,-64.3971,Auberge Le Caribou
+290,Ilulissat,GL,5.02,69.2167,-51.1,Hotel Arctic
+292,Payson,US,33.4,40.0444,-111.7321,Quality Inn Payson I-15
+295,Zapolyarnyy,RU,27.68,69.4154,30.8136,Pechenga
+305,College,US,15.75,64.8569,-147.8028,Pike's Waterfront Lodge
+327,Bolanos De Calatrava,ES,29.88,38.9069,-3.6635,Hotel Almagro
+330,Ushtobe,KZ,19.31,45.2514,77.9838,Filipin Squad
+333,Xinqing,CN,12.42,48.2333,129.5,
+343,Erenhot,CN,7.54,43.6475,111.9767,Erenhot Rurouni Youth Hostel
+344,Yakeshi,CN,9.25,49.2833,120.7333,Longhua Hotel
+347,Qasigiannguit,GL,5.25,68.8193,-51.1922,Hotel Diskobay
+348,Nevel,RU,32.47,56.0209,29.9284,Uyut
+350,Poddorye,RU,32.72,57.4695,31.1156,
+352,Ust-Tsilma,RU,30.78,65.441,52.1498,U Praskov'i
+353,Belyy Yar,RU,24.69,53.6039,91.3903,Pasportnyy Stol
+367,Kungurtug,RU,6.49,50.5994,97.5228,
+377,Teguldet,RU,20.12,57.3064,88.1667,
+384,Yining,CN,36.91,29.0361,114.5636,Xiushui Hotel
+398,Hami,CN,27.01,42.8,93.45,Laoyutang Resort
+403,Maarianhamina,AX,28.26,60.0973,19.9348,Park Alandia Hotel
+404,Shafranovo,RU,20.17,53.9667,54.7667,
+405,Lawrenceburg,US,33.57,38.0373,-84.8966,Best Western Lawrenceburg Inn
+407,Yuncheng,CN,36.36,35.0231,110.9928,晋州快捷酒店
+418,Togur,RU,22.95,58.3631,82.8265,
+422,Krasnoselkup,RU,12.58,65.7,82.4667,Krasnosel'kupnefteprodukt
+423,Chubbuck,US,31.89,42.9208,-112.4661,Clarion Inn Pocatello
+426,Nizhniy Odes,RU,28.04,63.6445,54.856,Gostinitsa Uyut
+430,Pingzhuang,CN,21.61,42.0372,119.2889,Haoke Guest House
+441,Gornyak,RU,14.76,50.9942,81.4661,"Комфорт ""Danilo"""
+455,Mandalgovi,MN,7.66,45.7625,106.2708,В.Ганбат
+460,Turukhansk,RU,8.96,65.8167,87.9833,"ООО ""Туруханская пушнина"""
+462,Biskamzha,RU,19.56,53.4497,89.5272,
+463,Burgeo,CA,39.63,47.6167,-57.6152,Gillett's Motel
+469,Mehamn,NO,30.11,71.0357,27.8492,Mehamn Arctic Hotel AS
+470,Rorvik,NO,21.31,64.8621,11.2373,Kysthotellet Rørvik AS
+475,Londoko,RU,12.09,49.0333,131.9833,
+476,Garden City,US,20.08,42.3256,-83.331,Big Trees Mobile Home Community
+478,Yumen,CN,25.75,40.2833,97.2,
+480,Severo-Yeniseyskiy,RU,10.6,60.3725,93.0408,Aktolik
+484,Havoysund,NO,29.28,70.9963,24.6622,Arctic View Glamping & Restaurant
+485,Hakkari,TR,17.38,37.5833,44.1667,Koprucek Koyu Muhtarligi
+498,Solnechnyy,RU,7.23,50.7214,136.6319,Hotel complex Pastoral
+515,Nizhniy Tsasuchey,RU,8.29,50.5167,115.1333,
+518,Nizhniy Ingash,RU,18.66,56.2,96.53,Gostinitsa Bayazet
+520,Sobolevo,RU,30.97,54.4299,31.8996,
+521,Sorland,NO,33.66,67.667,12.6934,Sjybrygga fiskecamp
+527,Kose,TR,23.56,40.21,39.6511,Hicret Oteli
+531,Inta,RU,24.6,66.0317,60.1659,Apartments in Inta city
+534,Kyshtovka,RU,23.11,56.555,76.6271,Uyutnaya Mini-Hotel
+536,Kenai,US,34.03,60.5544,-151.2583,Aspen Extended Stay Suites
+542,Kiruna,SE,20.32,67.8557,20.2251,Camp Ripan
+546,Yuzhnouralsk,RU,20.86,54.4418,61.2536,Mini Otel' Persona
+550,Leshukonskoye,RU,33.55,64.8989,45.7622,Pryalitsa Hostel
+552,Price,US,31.26,39.5994,-110.8107,National 9 - Price River Inn
+555,Stornoway,GB,37.36,58.2093,-6.3865,Caladh Inn
+560,Beidao,CN,32.02,34.5686,105.8933,Shell Tianshui Maiji District Erma Road Walking Street Hotel
+563,Shaunavon,CA,31.24,49.6501,-108.4181,Bear's Den Lodge
+564,Goderich,CA,22.91,43.7501,-81.7165,Harmony Inn
+570,Wajima,JP,38.08,37.4,136.9,Wajiima Onsen Yashio
+572,Saint-Ambroise,CA,14.32,48.5501,-71.3324,Motel Saint-Ambroise
+573,Tara,RU,24.84,56.8944,74.371,Medved'
+578,Gayny,RU,30.29,60.3071,54.3241,
+583,Jasper,US,15.35,37.2001,-94.3502,Guest House Motel
+584,Portales,US,25.11,34.1862,-103.3344,"Holiday Inn Express & Suites Portales, an IHG Hotel"
+596,Kyren,RU,12.18,51.6828,102.1408,"Energetik, Pansionat Ooo ""Grand Baykal"""
+597,Heihe,CN,7.38,50.2441,127.4902,Hotel Strannik
+600,Isilkul,RU,20.46,54.9109,71.2728,Perekrestok Mini-Hotel
+604,Tigil,RU,7.34,57.8,158.6667,Tigil'
+608,Klyuchi,RU,20.93,52.2667,79.1667,Vesolaya Mayovka
+609,Igrim,RU,22.98,63.1906,64.4162,Obshchezhitiye Uchebno-Proizvodstvennogo Tsentra
+613,Bronnoysund,NO,26.6,65.4625,12.1997,Corner Hotel
+621,Turochak,RU,24.3,52.2576,87.1224,"Usad'ba ""Lebed'"""
+632,Vydrino,RU,12.24,51.485,104.8461,
+634,Shizunai,JP,27.9,42.3339,142.3669,Shizunai Eclipse Hotel
+636,Bereznik,RU,34.18,62.8551,42.7072,coastal Hotel
+637,Koygorodok,RU,28.76,60.445,50.9968,
+639,Andenes,NO,30.18,69.3143,16.1194,Hotell Marena
+648,Panguipulli,CL,37.11,-39.6333,-72.3333,Cabañas Mis Viejos
+649,Vestmannaeyjar,IS,29.93,63.4427,-20.2734,Glamping & Camping
+650,Markova,UA,38.79,48.6758,24.4138,Vas.VOM
+657,Flagstaff,US,28.06,35.1981,-111.6513,Drury Inn & Suites Flagstaff
+659,Bud,US,25.56,39.447,-86.1758,Ted McQuinn Trust
+660,Korla,CN,31.87,41.7597,86.1469,Gulisitan Hotel
+662,Okhansk,RU,24.87,57.7186,55.3877,Ural Hotel
+666,Linxia,CN,24.71,35.6003,103.2064,GreenTree Inn Linxia Autonomous Prefecture Linxia Oxford River Avenue Express Hotel
+673,Verkh-Chebula,RU,19.38,56.0308,87.6218,Gostinitsa
+675,Muzhi,RU,19.26,65.3667,64.6667,Gostinitsa
+676,Griffith,US,19.11,41.5284,-87.4237,Apartment above Depot Bar
+677,Tongliao,CN,17.71,43.6125,122.2653,Meirujia Hotel
+678,Leh,IN,8.51,34.1667,77.5833,Hotel Ladakh Greens
+681,Aromashevo,RU,21.63,56.8602,68.6375,Gostinitsa
+689,Haines Junction,CA,21.15,60.7522,-137.5108,Parkside Inn
+690,Montrose,US,16.36,38.4166,-108.2673,
+696,Ornskoldsvik,SE,15.62,63.2909,18.7153,ファーストホテル スタット
+699,Novokizhinginsk,RU,6.49,51.6115,109.5917,
+703,Lichuan,CN,36.12,30.3,108.85,Yicheng Hotel
+708,Steamboat Springs,US,22.71,40.485,-106.8317,Steamboat Grand
+710,Khuzhir,RU,6.85,53.1939,107.3397,Отель на озере Байкал Baikal View
+712,Yeniseysk,RU,18.88,58.4497,92.1703,"""Domino"""
